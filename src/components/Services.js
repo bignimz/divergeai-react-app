@@ -33,7 +33,7 @@ function Services(props) {
 
             <div className="service-card col-12 mx-auto">
               <i className="fa fa-barcode" aria-hidden="true"></i>
-              <h4 className="service-title">Robotic Automation</h4>
+              <h4 className="service-title">Predictive Analysis</h4>
               <p className="service-text">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
                 officiis incidunt molestias laudantium unde minima eius commodi
@@ -46,7 +46,7 @@ function Services(props) {
 
             <div className="service-card col-12 mx-auto">
               <i className="fa fa-signal" aria-hidden="true"></i>
-              <h4 className="service-title">Robotic Automation</h4>
+              <h4 className="service-title">Machine Learning</h4>
               <p className="service-text">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
                 officiis incidunt molestias laudantium unde minima eius commodi
@@ -59,7 +59,7 @@ function Services(props) {
 
             <div className="service-card col-12 mx-auto">
               <i className="fa fa-signal" aria-hidden="true"></i>
-              <h4 className="service-title">Robotic Automation</h4>
+              <h4 className="service-title">Robotic Mechanism</h4>
               <p className="service-text">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
                 officiis incidunt molestias laudantium unde minima eius commodi
@@ -72,7 +72,7 @@ function Services(props) {
 
             <div className="service-card col-12 mx-auto">
               <i className="fa fa-signal" aria-hidden="true"></i>
-              <h4 className="service-title">Robotic Automation</h4>
+              <h4 className="service-title">Smart Robotics</h4>
               <p className="service-text">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
                 officiis incidunt molestias laudantium unde minima eius commodi
