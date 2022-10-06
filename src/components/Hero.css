@@ -42,6 +42,10 @@
   margin-bottom: 30px;
 }
 
+.hero-btn {
+  max-width: 300px;
+}
+
 .header-btn {
   background-color: var(--secondary);
   color: var(--ascent);
@@ -51,7 +55,6 @@
   align-items: center;
   position: relative;
   border: none;
-  width: 300px;
 }
 
 .header-btn:hover {

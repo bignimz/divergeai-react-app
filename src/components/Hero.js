@@ -15,7 +15,7 @@ function Hero(props) {
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic
               nostrum consectetur iure reiciendis unde ipsa similique possimus.
             </p>
-            <a href="#" className="btn header-btn px-5 btn-dark">
+            <a href="#" className="btn header-btn hero-btn px-5 btn-dark">
               Discover more
               <i className="fa fa-arrow-circle-right" aria-hidden="true"></i>
             </a>

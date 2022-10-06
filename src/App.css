@@ -222,7 +222,6 @@ header {
   align-items: center;
   position: relative;
   border: none;
-  width: 200px;
 }
 
 .header-btn:hover {
@@ -275,21 +274,6 @@ header {
   .about-img-3 {
     display: none;
   }
-
-  /* .data-analysis-section {
-    position: relative;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.8)),
-      url(../../assets/images/robot-1.png);
-    background-size: 100vh;
-  }
-
-  .data-boxes {
-    display: block;
-  }
-
-  .data-box {
-    margin-bottom: 20px;
-  } */
 }
 
 @media screen and (min-width: 576px) and (max-width: 767px) {
@@ -323,17 +307,4 @@ header {
   .hero-heading {
     font-size: 1vw;
   }
-
-  /* .data-analysis-section {
-    position: relative;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.8)),
-      url(../../assets/images/robot-1.png);
-    background-size: 70vh;
-    background-position: center;
-  }
-
-  .dta-box {
-    width: 80px;
-    padding: 10px 20px;
-  } */
 }
